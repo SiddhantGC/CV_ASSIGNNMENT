@@ -1,4 +1,5 @@
 import streamlit as st
+import cv2
 # Streamlit app title and description
 st.title("First Name Printer")
 st.write("Enter your first name and see it printed below.")
